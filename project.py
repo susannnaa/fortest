@@ -1,5 +1,4 @@
 # MadLibs
-#111
 import random
 
 story = input("Choose the story 1, 2 or 3. If you can't decide which story to choose, input 0 for a random story: ")
